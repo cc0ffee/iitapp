@@ -11,7 +11,7 @@
 
 
 ### Information
-The iitapp is a Proof of Concept app for mobile devices that allows students to check their schedule and assignments without the confusing nature of university websites. This app was made from the P33 Project for CS100 semester at IIT.
+The iitapp is a Proof of Concept app for mobile devices that allows students to check their schedule and assignments without the confusing nature of university websites. This app was made from the P33 Project for CS100 semester at Illinois Institute of Technology.
 
 **NOTE:** The data in this repo is for testing. No functionality for retreiving any current data from IIT or blackboard.
 
